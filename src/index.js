@@ -1,0 +1,1 @@
+// webpack ./src/index.js -o ./bulid/built.js --mode=development
